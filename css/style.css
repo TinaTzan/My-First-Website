@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F2ECE7;
+}
+
+.cv {
+    margin: 125px auto;
+    height: 600px;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .5)
+}
+
+.leftarea {
+    height: 600px;
+    width: 200px;
+    border-radius: 10px 0 0 10px;
+    background: -webkit-linear-gradient(left top, #E8A8B9, #C9E7EA);
+    position: fixed;
+}
+
+.rightarea {
+    height: 600px;
+    width: 400px;
+    left: 200px;
+    margin: 0 0 0 200px;
+    background-color: #FFFFFF;
+    border-radius: 0 10px 10px 0;
+}
+
+.td1 {
+    padding: 20px 0 0 22px;
+    width: 200px;
+    text-align: left;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: serif, sans-serif, cursive, fantasy, monospace;
+}
+
+.td2 {
+    padding: 0px 0 0 22px;
+    width: 200px;
+    text-align: left;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: serif, sans-serif, cursive, fantasy, monospace;
+}
+
+.intro {
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    padding: 20px 0 0 20px;
+    color: #484848;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+h4 {
+    font-size: 10px;
+    line-height: 18px;
+}
+
+
+/* 主色(primary) #29323b */
+
+
+/* 強調色(accent) #E2C0B9 */
+
+
+/* 字體顏色 #333 */
