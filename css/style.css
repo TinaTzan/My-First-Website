@@ -42,7 +42,7 @@ body {
     text-align: left;
     font-size: 20px;
     color: #FFFFFF;
-    font-family: serif, sans-serif, cursive, fantasy, monospace;
+    font-family: cursive
 }
 
 .td2 {
@@ -51,7 +51,7 @@ body {
     text-align: left;
     font-size: 14px;
     color: #FFFFFF;
-    font-family: serif, sans-serif, cursive, fantasy, monospace;
+    font-family: cursive;
 }
 
 .intro {
