@@ -16,7 +16,8 @@ body {
     height: 600px;
     width: 600px;
     border-radius: 10px;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, .5)
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .5);
+    /*    position: fixed;*/
 }
 
 .leftarea {
@@ -24,7 +25,8 @@ body {
     width: 200px;
     border-radius: 10px 0 0 10px;
     background: -webkit-linear-gradient(left top, #E8A8B9, #C9E7EA);
-    position: fixed;
+    float: left;
+    /*    position: fixed;*/
 }
 
 .rightarea {
@@ -33,7 +35,6 @@ body {
     margin-left: 200px;
     background-color: #FFFFFF;
     border-radius: 0 10px 10px 0;
-    position: fixed;
 }
 
 .td1 {
